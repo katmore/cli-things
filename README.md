@@ -1,2 +1,2 @@
 # cli-things
-framework neutral command-line functionality for php
+framework neutral command-line features for php
